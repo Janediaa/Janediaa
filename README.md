@@ -54,7 +54,7 @@ I’m a **3rd-year BTech Computer Science and Engineering student** who’s enth
 
 ## 📫 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](www.linkedin.com/in/aadi-j-097945284)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/aadi-j-097945284)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/Janediaa)
 
 ---
