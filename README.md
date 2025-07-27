@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently enrolled as a Bachelor of Technology student in Computer Science.<br>I'm looking to collaborate on projects that will help me dive deeper into the cybersecurity field, specifically data encryption.<br>I'm currently learning networking fundamentals, tools that will assist me in my cybersecurity journey like NMap, Wireshark.
+-> Currently enrolled as a Bachelor ofTechnology student in Computer Science.<br>-> Looking to collaborate on projects that will help me dive deeper into the cybersecurity field, specifically data encryption.<br>-> Currently learning networking fundamentals, tools that will assist me in my cybersecurity journey like NMap, Wireshark.
 
 
 ## 🌐 Socials:
