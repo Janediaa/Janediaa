@@ -1,4 +1,4 @@
-# 👋 Hello, I’m Aadi Jain!
+# 👋 Hello, I’m Aadi!
 
 ![Cybersecurity Banner](https://img.shields.io/badge/Cybersecurity-Enthusiast-blueviolet?style=for-the-badge&logo=hackthebox)
 ![Programming Languages](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
